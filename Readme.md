@@ -4,6 +4,12 @@ A deep learning project to classify English Premier League club logos using Tens
 
 ---
 
+## Clone the Repository 
+```sh
+git clone https://github.com/Synnoer/Analysis-Data.git
+cd Analysis Data
+```
+
 ## Dataset
 https://www.kaggle.com/datasets/alexteboul/english-premier-league-logo-detection-20k-images
 
